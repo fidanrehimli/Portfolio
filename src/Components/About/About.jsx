@@ -38,6 +38,21 @@ const About = () => {
               <p>Node JS</p>
               <hr style={{ width: "40%" }} />
             </div>
+            <div className="about-skill">
+              <p>MongoDB</p>
+              <hr style={{ width: "30%" }} />
+            </div>
+            <div className="about-skill">
+              <p>Context</p>
+              <hr style={{ width: "30%" }} />
+            </div>
+            <div className="about-skill">
+              <p>
+                Frontend libraries-Bootstrap, Ant Design, Material UI, Tailwind
+                Css
+              </p>
+              <hr style={{ width: "70%" }} />
+            </div>
           </div>
         </div>
       </div>
