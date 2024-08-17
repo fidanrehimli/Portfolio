@@ -1,12 +1,11 @@
 import React from "react";
 import "./Services.css";
-import { Services_Data } from "../../assets/services_data"; 
+import { Services_Data } from "../../assets/services_data";
 import { FaArrowRight } from "react-icons/fa";
-
 
 const Services = () => {
   return (
-    <div className="services">
+    <div id="services" className="services">
       <div className="services-title">
         <h1>My Services</h1>
       </div>
