@@ -1,4 +1,3 @@
-// services_data.js
 export const Services_Data = [
     {
         s_no: "01",
@@ -10,5 +9,5 @@ export const Services_Data = [
         s_name: "Full-Stack",
         s_desc: "Web development is the process of building, programming..."
     },
-   
+
 ];
