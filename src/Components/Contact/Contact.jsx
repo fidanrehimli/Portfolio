@@ -41,15 +41,15 @@ const Contact = () => {
           </p>
           <div className="contact-details">
             <div className="contact-detail">
-              <CiMail />
+              <CiMail className="contact-icons" />
               <p>frhimli6@gmail.com</p>
             </div>
             <div className="contact-detail">
-              <IoCallOutline />
+              <IoCallOutline className="contact-icons" />
               <p>+994556106875</p>
             </div>
             <div className="contact-detail">
-              <CiLocationOn />
+              <CiLocationOn className="contact-icons" />
               <p>Baku</p>
             </div>
           </div>
